@@ -1,6 +1,6 @@
-# 🎬 Finnkino Elokuvanäytökset – AJAX-projekti
+# 🎬 Finnkino Leffat – AJAX-projekti
 
-Tämä sovellus hakee elokuvanäytöksiä FinnKino REST API:n kautta. Käyttäjä voi valita haluamansa teatterin ja hakea elokuvia nimellä. Sovellus on toteutettu ilman ulkoisia kirjastoja, täysin natiivilla JavaScriptillä.
+Tämä sovellus hakee elokuvanäytöksiä FinnKino REST API:n kautta. Käyttäjä voi valita haluamansa teatterin ja hakea elokuvia nimellä. Sovellus on toteutettu JavaScriptillä.
 
 ---
 
@@ -9,8 +9,7 @@ Tämä sovellus hakee elokuvanäytöksiä FinnKino REST API:n kautta. Käyttäj�
 - HTML5
 - CSS3 (Grid, Flexbox)
 - JavaScript (native, Fetch API, DOMParser)
-- FinnKino XML REST API
-- Netlify (julkaisu)
+- FinnKino XML
 - GitHub (versionhallinta)
 
 ---
@@ -25,15 +24,13 @@ Tämä sovellus hakee elokuvanäytöksiä FinnKino REST API:n kautta. Käyttäj�
 ## 🧠 Mitä opin
 
 - Datan hakeminen XML-muodossa ja sen käsittely DOMParserin avulla
-- Dynaamisten tapahtumankäsittelijöiden lisääminen natiivilla JavaScriptillä
+- Dynaamisten tapahtumankäsittelijöiden lisääminen JavaScriptillä
 - Hakutoiminnon yhdistäminen valittuun datanäkymään
-- Responsiivisen käyttöliittymän rakentaminen ilman kirjastoja
-- Projektin julkaiseminen Netlifyssä
+- Responsiivisen käyttöliittymän rakentaminen
 
 ---
 
 ## 📌 Jatkokehitysideoita
 
-- Päivämäärävalinta, jolla voi selata tulevia näytöksiä
 - Mahdollisuus tallentaa suosikkielokuvia localStorageen
 - Näytösten lajittelu kellonajan mukaan
