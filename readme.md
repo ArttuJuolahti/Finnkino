@@ -18,7 +18,8 @@ Tämä sovellus hakee elokuvanäytöksiä FinnKino REST API:n kautta. Käyttäj�
 ## 🔗 Linkit
 
 - 💾 [GitHub-repositorio](https://github.com/ArttuJuolahti/Finnkino/tree/main)
-
+- 🌐 [Sovelluksen demoversio (GitHub Pages)](https://arttujuolahti.github.io/Finnkino/)
+  
 ---
 
 ## 🧠 Mitä opin
