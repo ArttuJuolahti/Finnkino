@@ -32,5 +32,6 @@ Tämä sovellus hakee elokuvanäytöksiä FinnKino REST API:n kautta. Käyttäj�
 
 ## 📌 Jatkokehitysideoita
 
+- Sivu voisi alussa ladata suosittuja elokuvia, jotta sivu ei näyttäisi tyhjälle.
 - Mahdollisuus tallentaa suosikkielokuvia localStorageen
 - Näytösten lajittelu kellonajan mukaan
