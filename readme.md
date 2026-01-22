@@ -1,4 +1,5 @@
 # 🎬 Finnkino Leffat – AJAX-projekti
+# Ei toimi enää sillä Finnkinon XML eivät ole enää julkisesti saatavilla.
 
 Tämä sovellus hakee elokuvanäytöksiä FinnKino REST API:n kautta. Käyttäjä voi valita haluamansa teatterin ja hakea elokuvia nimellä. Sovellus on toteutettu JavaScriptillä.
 
@@ -35,3 +36,4 @@ Tämä sovellus hakee elokuvanäytöksiä FinnKino REST API:n kautta. Käyttäj�
 - Sivu voisi alussa ladata suosittuja elokuvia, jotta sivu ei näyttäisi tyhjälle.
 - Mahdollisuus tallentaa suosikkielokuvia localStorageen
 - Näytösten lajittelu kellonajan mukaan
+
